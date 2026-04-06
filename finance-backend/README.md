@@ -151,7 +151,7 @@ finance-backend/
 │   │   ├── errors.js           # Custom errors
 │   │   └── logger.js           # Logging utility
 │   └── app.js                  # Express app setup
-├── .env.example                # Environment template
+├── .env                        # Environment template
 ├── package.json
 └── README.md
 ```
