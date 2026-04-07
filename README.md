@@ -16,7 +16,7 @@ This is a production-ready Node.js + Express + MongoDB backend for finance recor
 - ✅ Health check endpoint
 - ✅ Clean architecture (controllers, services, utils, config)
 
-## Tech Stack
+## Tech Stack :
 
 - **Runtime**: Node.js with ES6 modules
 - **Framework**: Express.js
