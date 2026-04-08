@@ -1,10 +1,10 @@
 # Finance Data Processing and Access Control Backend
 
-## Overview
+## Overview :
 
 This is a production-ready Node.js + Express + MongoDB backend for finance records and role-based access control. Features comprehensive API design, data modeling, business logic, and security best practices.
 
-## Features
+## Features :
 
 - ✅ User management (register/login, roles: viewer/analyst/admin, status: active/inactive)
 - ✅ Role-based access control with JWT authentication
