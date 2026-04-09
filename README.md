@@ -26,7 +26,7 @@ This is a production-ready Node.js + Express + MongoDB backend for finance recor
 - **Validation**: Express-validator
 - **Password Hashing**: bcryptjs
 
-## Installation
+## Installation :
 
 1. Clone the repository
 2. Install dependencies:
@@ -94,7 +94,7 @@ NODE_ENV=development
 | Analyst | ✅           | ❌            | ❌               | ✅        |
 | Admin   | ✅           | ✅            | ✅               | ✅        |
 
-## API Response Format
+## API Response Format :
 
 All responses follow a consistent format:
 
