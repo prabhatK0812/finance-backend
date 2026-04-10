@@ -175,7 +175,7 @@ finance-backend/
 - `npm test` - Run tests (placeholder)
 - `npm run lint` - Run linting (placeholder)
 
-### Code Quality
+### Code Quality :
 
 - ES6 modules with clean imports/exports
 - Consistent error handling with try/catch
@@ -183,7 +183,7 @@ finance-backend/
 - Centralized constants and utilities
 - Comprehensive logging
 
-## Assumptions & Design Decisions
+## Assumptions & Design Decisions :
 
 - **Database**: MongoDB for flexible document storage
 - **Roles**: Simple enum-based (viewer/analyst/admin)
