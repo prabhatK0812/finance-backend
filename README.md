@@ -208,7 +208,7 @@ POST /api/auth/register
 }
 ```
 
-### Login
+### Login :
 
 ```bash
 POST /api/auth/login
@@ -231,7 +231,7 @@ Authorization: Bearer <token>
 }
 ```
 
-## Deployment
+## Deployment :
 
 1. Set `NODE_ENV=production` in environment
 2. Use a process manager like PM2
