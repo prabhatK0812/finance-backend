@@ -238,7 +238,7 @@ Authorization: Bearer <token>
 3. Configure MongoDB Atlas for production database
 4. Set up reverse proxy (nginx) for production
 
-## Contributing
+## Contributing :
 
 1. Follow the existing code structure
 2. Add proper error handling and logging
