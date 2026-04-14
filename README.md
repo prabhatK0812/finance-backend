@@ -43,7 +43,7 @@ This is a production-ready Node.js + Express + MongoDB backend for finance recor
    npm run dev
    ```
 
-## Environment Variables
+## Environment Variables :
 
 Create a `.env` file with:
 
