@@ -117,7 +117,7 @@ Error responses:
 }
 ```
 
-## Project Structure
+## Project Structure :
 
 ```
 finance-backend/
