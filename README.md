@@ -197,7 +197,7 @@ finance-backend/
 
 Use tools like Postman or Insomnia. Example requests:
 
-### Register Admin User
+### Register Admin User :
 
 ```bash
 POST /api/auth/register
