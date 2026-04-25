@@ -168,7 +168,7 @@ finance-backend/
 
 ## Development
 
-### Available Scripts
+### Available Scripts :
 
 - `npm run dev` - Start development server with nodemon
 - `npm start` - Start production server
