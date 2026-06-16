@@ -66,7 +66,7 @@ NODE_ENV=development
 - `POST /api/auth/register` - Register new user
 - `POST /api/auth/login` - User login
 
-### Users (Admin Only) ::
+### Users (Admin Only) :
 
 - `GET /api/users` - List all users
 - `GET /api/users/:id` - Get user by ID
