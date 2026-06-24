@@ -73,7 +73,7 @@ NODE_ENV=development
 - `PATCH /api/users/:id` - Update user (role/status)
 - `DELETE /api/users/:id` - Delete user
 
-### Records
+### Records :
 
 - `GET /api/records` - List records (with filtering/pagination)
   - Query params: `type`, `category`, `dateFrom`, `dateTo`, `page`, `limit`
